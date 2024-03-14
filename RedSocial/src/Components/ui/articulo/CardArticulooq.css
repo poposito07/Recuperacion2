@@ -1,0 +1,33 @@
+.contenedor-articulooq {
+    width: 30%;
+    height: 45vh;
+    border-radius: 10px;
+    background-image: url('../../../../public/img/robot.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 3px;
+
+
+}
+
+.contenedor-infooq {
+    width: 100%;
+    height: 50%;
+    background: linear-gradient(0deg, #454545, #c5c5c551);
+    border-radius: 0px 0px 10px 10px;
+    color: #FFFFFF;
+    margin-top: -250px; /* Ajusta este valor según sea necesario */
+
+}
+
+.espaciadooq {
+    margin-left: 2%;
+}
+
+.boton-saber-masq {
+    border-radius: 5px;
+    margin-left: 2%;
+}
